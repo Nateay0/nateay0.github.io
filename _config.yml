@@ -91,7 +91,7 @@ form:
 tracking_id: "G-629JN1JKVT"
 
 # Google Site Verification ID
-verification: "google-site-verification=NjOIYUatZIGfVWVxO9WzBt34DIneVJejNCNF-PKcQkM"
+verification: "<meta name="google-site-verification" content="ta_nmlLhdulf7izowyF1iK37-e2h_2nuRH25jkKjFKI" />"
 
 # Coding stats
 wakatime:

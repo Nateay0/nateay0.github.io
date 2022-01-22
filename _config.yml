@@ -97,5 +97,5 @@ verification: "google-site-verification=ta_nmlLhdulf7izowyF1iK37-e2h_2nuRH25jkKj
 wakatime:
  enabled: "true" # Boolean
  started: "2022" # Year when wakatime started moritoring your code activity
- link: "https://wakatime.com/@Natesplanet" # Your wakatime profile link
- embed: "https://wakatime.com/share/@Natesplanet/92190859-a684-4518-9e82-b31b96630112.svg" # Coding stats embed image in .svg format
+ link: "https://github.com/Natesplanet" # Your wakatime profile link
+ embed: "https://github-readme-stats.vercel.app/api/top-langs/?username=Natesplanet&langs_count=8" # Coding stats embed image in .svg format

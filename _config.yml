@@ -11,7 +11,7 @@ plugins:
  - "jekyll-github-metadata"
 
 # Github repository
-repository: igorkowalczyk/igorkowalczyk.github.io
+repository: natesplanet/natesplanet.github.io
 
 # Your job
 work: "Just a Gamer learning more about Coding"
@@ -30,9 +30,6 @@ url: "https://Natesplanet.github.io"
 
 # Contact E-Mail
 email: "nathankamineni@gmail.com"
-
-# Arc.io key
-arc: "S9mepABR"
 
 social-media:
  enabled: "true"
@@ -94,11 +91,11 @@ form:
 tracking_id: "G-629JN1JKVT"
 
 # Google Site Verification ID
-verification: "google-site-verification=NjOIYUatZIGfVWVxO9WzBt34DIneVJejNCNF-PKcQkM"
+verification: "google-site-verification=ta_nmlLhdulf7izowyF1iK37-e2h_2nuRH25jkKjFKI"
 
 # Coding stats
 wakatime:
  enabled: "true" # Boolean
- started: "2021" # Year when wakatime started moritoring your code activity
+ started: "2022" # Year when wakatime started moritoring your code activity
  link: "https://wakatime.com/@Natesplanet" # Your wakatime profile link
  embed: "https://wakatime.com/share/@Natesplanet/92190859-a684-4518-9e82-b31b96630112.svg" # Coding stats embed image in .svg format

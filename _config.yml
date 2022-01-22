@@ -86,7 +86,7 @@ form:
  disabled: "true" # Disable the contact form inputs but don't hide the whole form. Enable this for eg. maintenance. (boolean)
  hide_html_form: "true" # Hide HTML form from page
  action: "https://getform.io/f/f823ef85-b161-4cc1-9d60-ef2fb18b9276" # Form action, must support xhr requests (url)
- banner: "https://discord.c99.nl/widget/theme-1/734918355303006299.png" # Form banner (url)
+ banner: "https://lanyard.cnrad.dev/api/734918355303006299" # Form banner (url)
  banner_url: "https://discord.com/users/734918355303006299" # Banner url (url)
  display_banner: "true" # Display form banner (boolean)
 

@@ -100,5 +100,5 @@ verification: "google-site-verification=NjOIYUatZIGfVWVxO9WzBt34DIneVJejNCNF-PKc
 wakatime:
  enabled: "true" # Boolean
  started: "2021" # Year when wakatime started moritoring your code activity
- link: "https://wakatime.com/@Majonezexe" # Your wakatime profile link
- embed: "https://wakatime.com/share/@Majonezexe/6649e5e0-8191-4da7-b51c-8ef035b7e069.svg" # Coding stats embed image in .svg format
+ link: "https://wakatime.com/@Natesplanet" # Your wakatime profile link
+ embed: "https://wakatime.com/share/@Natesplanet/92190859-a684-4518-9e82-b31b96630112.svg" # Coding stats embed image in .svg format

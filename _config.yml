@@ -31,6 +31,9 @@ url: "https://Natesplanet.github.io"
 # Contact E-Mail
 email: "nathankamineni@gmail.com"
 
+# Arc.io key
+arc: "S9mepABR"
+
 social-media:
  enabled: "true"
  twitter: "@Natesplanet"

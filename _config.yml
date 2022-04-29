@@ -1,8 +1,8 @@
 # Main Page Title
-title: "Natesplanet"
+title: "Nateay"
 
 # Your name
-name: "Natesplanet"
+name: "Nateay"
 
 # Main section title
 section: "Portfolio"
@@ -11,7 +11,7 @@ plugins:
  - "jekyll-github-metadata"
 
 # Github repository
-repository: natesplanet/natesplanet.github.io
+repository: nateay0/nateay.github.io
 
 # Your job
 work: "Just a curious person who likes to learn stuff"
@@ -20,23 +20,23 @@ work: "Just a curious person who likes to learn stuff"
 section-email: "#contact"
 
 # Description
-description: "Natesplanet's personal website."
+description: "Nateay's personal website."
 
 # Base url (Only dir eg. /blog | /portfolio)
 baseurl: ""
 
 # Link to the main page (or subpage)
-url: "https://natesplanet.tk"
+url: "https://Nateay.tk"
 
 # Contact E-Mail
 email: "nathankamineni@gmail.com"
 
 social-media:
  enabled: "true"
- twitter: "@Natesplanet"
- github_username: "Natesplanet"
+ twitter: "@Nateay_"
+ github_username: "Nateay0"
  discord: "https://discord.gg/S4kqaUmQtP"
- instagram: Natesplanet
+ instagram: "Natesplanet"
  
  
 
@@ -63,7 +63,7 @@ blog-title: "Blog"
 mobile: "false"
 
 # First Launch of the site
-first-launch: "2022"
+first-launch: "2021"
 
 # Timezone
 timezone: "America/Puerto_Rico"
@@ -97,5 +97,5 @@ verification: "ta_nmlLhdulf7izowyF1iK37-e2h_2nuRH25jkKjFKI"
 wakatime:
  enabled: "true" # Boolean
  started: "2022" # Year when wakatime started moritoring your code activity
- link: "https://github.com/Natesplanet" # Your wakatime profile link
- embed: "https://github-readme-stats.vercel.app/api/top-langs/?username=Natesplanet&langs_count=8" # Coding stats embed image in .svg format
+ link: "https://github.com/Nateay0" # Your wakatime profile link
+ embed: "https://github-readme-stats.vercel.app/api/top-langs/?username=Nateay0&langs_count=8" # Coding stats embed image in .svg format

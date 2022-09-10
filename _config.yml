@@ -11,7 +11,7 @@ plugins:
  - "jekyll-github-metadata"
 
 # Github repository
-repository: nateay0/nateay.github.io
+repository: nateay0/nateay0.github.io
 
 # Your job
 work: "Just a curious person who likes to learn stuff"
@@ -26,7 +26,7 @@ description: "Nateay's personal website."
 baseurl: ""
 
 # Link to the main page (or subpage)
-url: "https://Nateay.tk"
+url: "https://nateay0.github.io"
 
 # Contact E-Mail
 email: "nathankamineni@gmail.com"
